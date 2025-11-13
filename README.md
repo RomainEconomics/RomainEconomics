@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Romain Jouhameau
+# Romain Jouhameau | AI Engineer & Python Developer
 
 ## About Me
 
